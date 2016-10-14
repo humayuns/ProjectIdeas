@@ -14,3 +14,4 @@
   * Small effects related to sytanx errors
   * Some visualization of code execution
 4. Use 2D/3D Physics Engine for rich effects.
+5. Demostration Smalltalk/Squeak like text animation features.
