@@ -4,4 +4,4 @@
 
 1. Code Editor Windows Application (WinForms or WPF)
 2. Code Editor Node.js Desktop Application
-3. Enhanced graphics effects related to code/text.
+3. Enhanced graphics effects related to code/text. :buzz:
